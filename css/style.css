@@ -1,0 +1,52 @@
+* {
+    background-color: black;
+    color: white;
+    margin-top: 0px;
+    margin-left: 0px;
+ }
+
+/*a {
+    background-color: rgb(255, 0, 0);
+}*/
+
+}
+
+header {
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+}
+/*agrupar elementosmismas caracteristicas */
+
+
+footer {
+    position: fixed;
+    bottom: 0%;
+    /*bottom: 10vh;*/
+    background-color: rgb(30, 3, 180) !important; /* */
+    /*font-size: 0vh;*/
+    font-family: 'ZCOOL KuaiLe', cursive;
+    /*
+    vw : el ancho del viewport
+    vh: el alto del viewport
+    */
+}
+
+    .Botoncito {
+        background-color: rgb(60, 211, 22);
+    }
+
+    img {
+            border-style: dotted;
+            padding-top: 10px;
+            margin-bottom: 20px;
+        }
+
+    .login001 {
+            background-color: rgb(129, 5, 5);
+        }
+        
+    .degradeboton{
+            animation: ;  
+            background-color: rgb(129, 5, 5);
+        }
+        
